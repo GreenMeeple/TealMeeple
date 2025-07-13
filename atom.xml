@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TealMeeple</title>
+  <icon>https://greenmeeple.github.io/img/TealMeeple.png</icon>
+  <subtitle>Cantonese, Life, Translation, Language, 語言學習, 翻譯, 廣東話</subtitle>
+  <link href="https://greenmeeple.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://greenmeeple.github.io/"/>
+  <updated>2025-07-13T04:56:49.862Z</updated>
+  <id>https://greenmeeple.github.io/</id>
+  
+  <author>
+    <name>TealMeeple</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>鴨綠米寶 -- 自耕翻譯者日記</title>
+    <link href="https://greenmeeple.github.io/about/"/>
+    <id>https://greenmeeple.github.io/about/</id>
+    <published>2025-06-02T17:37:21.000Z</published>
+    <updated>2025-07-13T04:56:49.862Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;拯救廣東話，從翻譯開始&quot;&gt;&lt;a href=&quot;#拯救廣東話，從翻譯開始&quot; class=&quot;headerlink&quot; title=&quot;拯救廣東話，從翻譯開始&quot;&gt;&lt;/a&gt;拯救廣東話，從翻譯開始&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="台灣繁體" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
+    
+    
+    <category term="台灣繁體" scheme="https://greenmeeple.github.io/tags/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>鴨綠米寶 -- 自耕翻譯者日記</title>
+    <link href="https://greenmeeple.github.io/zh-hk-about/"/>
+    <id>https://greenmeeple.github.io/zh-hk-about/</id>
+    <published>2025-06-02T17:37:21.000Z</published>
+    <updated>2025-07-13T04:56:26.284Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;拯救廣東話，由翻譯做起&quot;&gt;&lt;a href=&quot;#拯救廣東話，由翻譯做起&quot; class=&quot;headerlink&quot; title=&quot;拯救廣東話，由翻譯做起&quot;&gt;&lt;/a&gt;拯救廣東話，由翻譯做起&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="香港繁體" scheme="https://greenmeeple.github.io/categories/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
+    
+    
+    <category term="香港繁體" scheme="https://greenmeeple.github.io/tags/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TealMeeple -- A diary of a Freelance Translator</title>
+    <link href="https://greenmeeple.github.io/en-about/"/>
+    <id>https://greenmeeple.github.io/en-about/</id>
+    <published>2025-06-02T17:37:21.000Z</published>
+    <updated>2025-07-13T04:56:07.584Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Translation-is-the-first-resort-to-save-Cantonese&quot;&gt;&lt;a href=&quot;#Translation-is-the-first-resort-to-save-Cantonese&quot; class=&quot;headerlink&quot; title=&quot;Translation is the first resort to save Cantonese&quot;&gt;&lt;/a&gt;Translation is the first resort to save Cantonese&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="EN" scheme="https://greenmeeple.github.io/categories/EN/"/>
+    
+    
+    <category term="EN" scheme="https://greenmeeple.github.io/tags/EN/"/>
+    
+  </entry>
+  
+</feed>
