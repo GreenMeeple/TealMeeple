@@ -6,7 +6,7 @@
   <link href="https://greenmeeple.github.io/atom.xml" rel="self"/>
   
   <link href="https://greenmeeple.github.io/"/>
-  <updated>2025-07-21T00:50:44.664Z</updated>
+  <updated>2025-07-21T00:53:02.250Z</updated>
   <id>https://greenmeeple.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://greenmeeple.github.io/fun2/"/>
     <id>https://greenmeeple.github.io/fun2/</id>
     <published>2025-07-21T00:37:21.000Z</published>
-    <updated>2025-07-21T00:50:44.664Z</updated>
+    <updated>2025-07-21T00:53:02.250Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -35,12 +35,63 @@
     
     
     
-    <category term="台灣繁體" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
-    
-    <category term="翻譯筆記" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/%E7%BF%BB%E8%AD%AF%E7%AD%86%E8%A8%98/"/>
+    <category term="隨手譯" scheme="https://greenmeeple.github.io/categories/%E9%9A%A8%E6%89%8B%E8%AD%AF/"/>
     
     
     <category term="台灣繁體" scheme="https://greenmeeple.github.io/tags/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TealPractice 2 -- Doors of Perception</title>
+    <link href="https://greenmeeple.github.io/en-fun2/"/>
+    <id>https://greenmeeple.github.io/en-fun2/</id>
+    <published>2025-07-21T00:37:21.000Z</published>
+    <updated>2025-07-21T01:04:16.356Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;有已知之事，亦有未知之事，&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;而二者之間，正是知覺之門。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/TealMeeple/img/dop.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Original image on Facebook &lt;a href=&quot;https://www.facebook.com/share/16cLpVWnDQ/?mibextid=wwXIfr&quot;&gt;“The language Nerds”&lt;/a&gt;, this chinese translation has also shared to &lt;a href=&quot;https://www.facebook.com/share/g/197BnqbSCf/?mibextid=wwXIfr&quot;&gt;譯家人 - 譯家人生&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+    
+    
+    
+    <category term="practice" scheme="https://greenmeeple.github.io/categories/practice/"/>
+    
+    
+    <category term="en" scheme="https://greenmeeple.github.io/tags/en/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>米寶隨手譯 2 -- 知覺之門</title>
+    <link href="https://greenmeeple.github.io/zh-hk-fun2/"/>
+    <id>https://greenmeeple.github.io/zh-hk-fun2/</id>
+    <published>2025-07-21T00:37:21.000Z</published>
+    <updated>2025-07-21T01:04:09.815Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;有啲嘢係已知嘅，有啲嘢係未知嘅，&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;所謂知同唔知之間，就係知覺之門。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;相比起台灣繁體版本，呢個望落好似有啲冗長，但係「&lt;ruby&gt;知同唔知之&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;zi1 tung4 m4 zi1 zi1&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」呢段好似急口令，好玩好多。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/TealMeeple/img/dop.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文出自Facebook &lt;a href=&quot;https://www.facebook.com/share/1GrWzLQkKR/?mibextid=wwXIfr&quot;&gt;“English Literature”&lt;/a&gt;，已同步發佈在&lt;a href=&quot;https://www.facebook.com/share/g/197BnqbSCf/?mibextid=wwXIfr&quot;&gt;譯家人 - 譯家人生&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+    
+    
+    
+    <category term="隨手譯" scheme="https://greenmeeple.github.io/categories/%E9%9A%A8%E6%89%8B%E8%AD%AF/"/>
+    
+    
+    <category term="香港繁體" scheme="https://greenmeeple.github.io/tags/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
     
   </entry>
   
@@ -49,7 +100,7 @@
     <link href="https://greenmeeple.github.io/fun1/"/>
     <id>https://greenmeeple.github.io/fun1/</id>
     <published>2025-07-20T00:37:21.000Z</published>
-    <updated>2025-07-21T00:35:29.077Z</updated>
+    <updated>2025-07-21T01:00:28.818Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -63,12 +114,62 @@
     
     
     
-    <category term="台灣繁體" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
-    
-    <category term="翻譯筆記" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/%E7%BF%BB%E8%AD%AF%E7%AD%86%E8%A8%98/"/>
+    <category term="隨手譯" scheme="https://greenmeeple.github.io/categories/%E9%9A%A8%E6%89%8B%E8%AD%AF/"/>
     
     
     <category term="台灣繁體" scheme="https://greenmeeple.github.io/tags/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TealPractice 1 -- Will you marry me?</title>
+    <link href="https://greenmeeple.github.io/en-fun1/"/>
+    <id>https://greenmeeple.github.io/en-fun1/</id>
+    <published>2025-07-20T00:37:21.000Z</published>
+    <updated>2025-07-21T00:57:48.268Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「你要嫁我？」，是求婚。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;「你、姚、佳、我」，是4p。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;「你，要嫁我」，是未來過來的劇透&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;「你姚，佳我」，是原始人在嘗試令失憶的阿姚記得自己是誰。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/TealMeeple/img/wymm.png&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Original image on Facebook &lt;a href=&quot;https://www.facebook.com/share/16cLpVWnDQ/?mibextid=wwXIfr&quot;&gt;“The language Nerds”&lt;/a&gt;, this chinese translation has also shared to &lt;a href=&quot;https://www.facebook.com/share/g/197BnqbSCf/?mibextid=wwXIfr&quot;&gt;譯家人 - 譯家人生&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+    
+    
+    
+    <category term="practice" scheme="https://greenmeeple.github.io/categories/practice/"/>
+    
+    
+    <category term="en" scheme="https://greenmeeple.github.io/tags/en/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>米寶隨手譯 1 -- 你嫁畀我？</title>
+    <link href="https://greenmeeple.github.io/zh-hk-fun1/"/>
+    <id>https://greenmeeple.github.io/zh-hk-fun1/</id>
+    <published>2025-07-20T00:37:21.000Z</published>
+    <updated>2025-07-21T00:56:31.417Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「你嫁畀我？」，係求婚。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;「你、嘉、bae、我」，喺4p。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;「你，嫁畀我」，喺未來人過嚟劇透&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;「你嘉，bae我」，係原始人嘗試緊令失憶嘅阿嘉記得自己係邊個。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/TealMeeple/img/wymm.png&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文出自Facebook &lt;a href=&quot;https://www.facebook.com/share/16cLpVWnDQ/?mibextid=wwXIfr&quot;&gt;“The language Nerds”&lt;/a&gt;，已同步發佈在&lt;a href=&quot;https://www.facebook.com/share/g/197BnqbSCf/?mibextid=wwXIfr&quot;&gt;譯家人 - 譯家人生&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+    
+    
+    
+    <category term="隨手譯" scheme="https://greenmeeple.github.io/categories/%E9%9A%A8%E6%89%8B%E8%AD%AF/"/>
+    
+    
+    <category term="香港繁體" scheme="https://greenmeeple.github.io/tags/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
     
   </entry>
   
@@ -126,58 +227,6 @@
     
     
     <category term="香港繁體" scheme="https://greenmeeple.github.io/tags/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>翻譯筆記 1 -- 磁感令我實際上學會如何做香腸</title>
-    <link href="https://greenmeeple.github.io/note1-copy/"/>
-    <id>https://greenmeeple.github.io/note1-copy/</id>
-    <published>2025-07-14T00:37:21.000Z</published>
-    <updated>2025-07-21T00:21:48.085Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;疊甲&lt;/strong&gt;：以下內容均為個人意見，可能你會有更好的翻譯，歡迎留言交流！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;我的筆記時間：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;magnetoreception&lt;/strong&gt; -&amp;gt; 磁感&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;truly&lt;/strong&gt; -&amp;gt; 嚴格地&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;foible&lt;/strong&gt; -&amp;gt; 怪癖，小毛病，小缺點&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;shoddy work&lt;/strong&gt; -&amp;gt; 劣作，粗製濫造&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;the sausage gets made&lt;/strong&gt; -&amp;gt; 陰暗面，光鮮亮麗的背後&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;廣東話教學&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;hea&lt;/strong&gt; -&amp;gt; 敷衍，態度不認真&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot; class=&quot;headerlink&quot; title=&quot;引子&quot;&gt;&lt;/a&gt;引子&lt;/h2&gt;&lt;p&gt;上個禮拜接了一個支線任務，負責翻譯在YouTube長影片中，一段兩分鐘的內容。影片是關於&lt;a href=&quot;https://zh.wikipedia.org/zh-hk/%E5%9F%83%E5%BE%B7%C2%B7%E6%89%AC&quot;&gt;Ed Yong&lt;/a&gt;（艾德·楊&lt;sup&gt;1&lt;/sup&gt;）在Library of Congress的新書介紹。&lt;/p&gt;
-&lt;iframe width=&quot;600&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/teNE1RXPDOE?si=_UnXXOdRcH2oHLqZ&amp;amp;start=1039&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;天外飛來一個Ed-Yong？快來膜拜大神！&quot;&gt;&lt;a href=&quot;#天外飛來一個Ed-Yong？快來膜拜大神！&quot; class=&quot;headerlink&quot; title=&quot;天外飛來一個Ed Yong？快來膜拜大神！&quot;&gt;&lt;/a&gt;天外飛來一個Ed Yong？快來膜拜大神！&lt;/h3&gt;&lt;p&gt;一開始我想説這位你誰？後來背調一下發現大有來頭：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2002年 &lt;strong&gt;劍橋&lt;/strong&gt;動物學畢業&lt;/li&gt;
-&lt;li&gt;2008年 在&lt;strong&gt;國家地理&lt;/strong&gt;（National Geographic）旗下寫專欄&lt;/li&gt;
-&lt;li&gt;2012年 英國記者聯盟（National Union of Journalists）為他頒發獎項（原網址消失，無從考究）&lt;/li&gt;
-&lt;li&gt;2015年 在大西洋雜誌（The Atlantic）擔任科學記者（Science Reporter）&lt;/li&gt;
-&lt;li&gt;2016年 第一本書出版&lt;/li&gt;
-&lt;li&gt;2021年 因報導肺炎獲得&lt;strong&gt;普立茲&lt;/strong&gt;解釋報導獎（Pulitzer Prize for Explanatory Reporting）&lt;/li&gt;
-&lt;li&gt;2022年 第二本書出版，被出版者周刊（Publishers Weekly）評為十大書籍，而且獲得英國皇家學會科學圖書獎（Royal Society Trivedi Science Book Prize）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;看完這一堆落落長的履歷和榮耀，光是普立茲獎就足以證明他就是你媽口中的鄰家小孩（我在這裏介紹他簡直是自取其辱），影片中介紹的書正是他最新獲獎的《五感之外的世界：認識動物神奇的感知系統，探見人類感官無法觸及的大自然》（An Immense World: How Animal Senses Reveal the Hidden Realms Around Us）。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="台灣繁體" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
-    
-    <category term="翻譯筆記" scheme="https://greenmeeple.github.io/categories/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/%E7%BF%BB%E8%AD%AF%E7%AD%86%E8%A8%98/"/>
-    
-    
-    <category term="台灣繁體" scheme="https://greenmeeple.github.io/tags/%E5%8F%B0%E7%81%A3%E7%B9%81%E9%AB%94/"/>
     
   </entry>
   
@@ -303,26 +352,6 @@
   </entry>
   
   <entry>
-    <title>鴨綠米寶 -- 自耕翻譯者日記</title>
-    <link href="https://greenmeeple.github.io/zh-hk-about/"/>
-    <id>https://greenmeeple.github.io/zh-hk-about/</id>
-    <published>2025-06-02T17:37:21.000Z</published>
-    <updated>2025-07-14T02:27:16.154Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;拯救廣東話，由翻譯做起&quot;&gt;&lt;a href=&quot;#拯救廣東話，由翻譯做起&quot; class=&quot;headerlink&quot; title=&quot;拯救廣東話，由翻譯做起&quot;&gt;&lt;/a&gt;拯救廣東話，由翻譯做起&lt;/h2&gt;&lt;p&gt;鴨綠米寶是綠色米寶的其中一個分靈體，唔做IT狗，專心翻譯做搬運工，間唔中寫下廢話。&lt;/p&gt;
-</summary>
-    
-    
-    
-    <category term="香港繁體" scheme="https://greenmeeple.github.io/categories/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
-    
-    
-    <category term="香港繁體" scheme="https://greenmeeple.github.io/tags/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
-    
-  </entry>
-  
-  <entry>
     <title>TealMeeple -- A diary of a Freelance Translator</title>
     <link href="https://greenmeeple.github.io/en-about/"/>
     <id>https://greenmeeple.github.io/en-about/</id>
@@ -339,6 +368,26 @@
     
     
     <category term="EN" scheme="https://greenmeeple.github.io/tags/EN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>鴨綠米寶 -- 自耕翻譯者日記</title>
+    <link href="https://greenmeeple.github.io/zh-hk-about/"/>
+    <id>https://greenmeeple.github.io/zh-hk-about/</id>
+    <published>2025-06-02T17:37:21.000Z</published>
+    <updated>2025-07-14T02:27:16.154Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;拯救廣東話，由翻譯做起&quot;&gt;&lt;a href=&quot;#拯救廣東話，由翻譯做起&quot; class=&quot;headerlink&quot; title=&quot;拯救廣東話，由翻譯做起&quot;&gt;&lt;/a&gt;拯救廣東話，由翻譯做起&lt;/h2&gt;&lt;p&gt;鴨綠米寶是綠色米寶的其中一個分靈體，唔做IT狗，專心翻譯做搬運工，間唔中寫下廢話。&lt;/p&gt;
+</summary>
+    
+    
+    
+    <category term="香港繁體" scheme="https://greenmeeple.github.io/categories/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
+    
+    
+    <category term="香港繁體" scheme="https://greenmeeple.github.io/tags/%E9%A6%99%E6%B8%AF%E7%B9%81%E9%AB%94/"/>
     
   </entry>
   
